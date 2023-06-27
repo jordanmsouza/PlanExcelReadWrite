@@ -1,0 +1,9 @@
+C:\Users\jorda\source\repos\WriteReadPlan\WriteReadPlan\bin\Debug\WriteReadPlan.exe.config
+C:\Users\jorda\source\repos\WriteReadPlan\WriteReadPlan\bin\Debug\WriteReadPlan.exe
+C:\Users\jorda\source\repos\WriteReadPlan\WriteReadPlan\bin\Debug\WriteReadPlan.pdb
+C:\Users\jorda\source\repos\WriteReadPlan\WriteReadPlan\obj\Debug\WriteReadPlan.csproj.AssemblyReference.cache
+C:\Users\jorda\source\repos\WriteReadPlan\WriteReadPlan\obj\Debug\WriteReadPlan.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorda\source\repos\WriteReadPlan\WriteReadPlan\obj\Debug\WriteReadPlan.csproj.ResolveComReference.cache
+C:\Users\jorda\source\repos\WriteReadPlan\WriteReadPlan\obj\Debug\WriteReadPlan.csproj.CoreCompileInputs.cache
+C:\Users\jorda\source\repos\WriteReadPlan\WriteReadPlan\obj\Debug\WriteReadPlan.exe
+C:\Users\jorda\source\repos\WriteReadPlan\WriteReadPlan\obj\Debug\WriteReadPlan.pdb
